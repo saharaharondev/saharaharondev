@@ -10,7 +10,7 @@
 </div>
 <div>
 <h2>About Me</h2>
-<p>Hi, I'm Sahar Aharon. I'm a Software Developer and a Computer Science and Mathematics student at The Hebrew University. I enjoy coding, solving problems, and exploring new technologies. Currently, I’m focused on developing apps and improving my skills in machine learning and API integration.</p>
+<p>Hi, I'm Sahar Aharon. I'm a Software Developer and a Computer Science and Mathematics student at The Hebrew University. I enjoy coding, solving problems, and exploring new technologies. Currently, I’m focused on improving my coding skills .</p>
 </div>
 <div>
 <h2>Languages & Tools</h2>
